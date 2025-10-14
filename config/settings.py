@@ -50,6 +50,8 @@ INSTALLED_APPS = [
     'doctors.apps.DoctorsConfig',
     'taggit',
     'accounts.apps.AccountsConfig',
+    'contacts.apps.ContactsConfig',
+    'widget_tweaks',
 ]
 
 MIDDLEWARE = [
